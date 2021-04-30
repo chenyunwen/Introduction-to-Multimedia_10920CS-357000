@@ -40,14 +40,6 @@ int main (){
 
     for(int i=0; i<4; i++){
         for(int j=0; j<4; j++){
-            cout << F1[i][j] << ' ';
-        }
-        cout << endl << endl;
-    }
-
-
-    for(int i=0; i<4; i++){
-        for(int j=0; j<4; j++){
             for(int k=0; k<4; k++){
                 F[i][j] += F1[i][k] * Ht[k][j];
             }
