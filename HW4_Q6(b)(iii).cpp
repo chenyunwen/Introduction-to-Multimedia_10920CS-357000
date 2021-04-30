@@ -13,7 +13,7 @@ float H[4][4] = {
     { 1,  1,  1,  1},
     { 2,  1, -1, -2},
     { 1, -1, -1,  1},
-    { 1, -2,  2,  1}};
+    { 1, -2,  2, -1}};
 float Ht[4][4] = {0};
 
 int main (){
@@ -37,6 +37,14 @@ int main (){
             }
         }
     }
+
+    for(int i=0; i<4; i++){
+        for(int j=0; j<4; j++){
+            cout << F1[i][j] << ' ';
+        }
+        cout << endl << endl;
+    }
+
 
     for(int i=0; i<4; i++){
         for(int j=0; j<4; j++){
