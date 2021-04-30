@@ -1,7 +1,7 @@
 # Introduction-to-Multimedia_10920CS-357000 HW4
 
 ### For **HW4_Q3(a).cpp**, it don't need any input.
-### For **HW4_Q6(b)(i).cpp**, it's input is:
+### For **HW4_Q6(b)(i).cpp**, the input is:
 > 20  40  60  80 100 120 140 155 <br>
 > 30  50  70  90 110 130 150 165 <br>
 > 40  60  80 100 120 140 160 175 <br>
@@ -11,7 +11,7 @@
 > 80 100 120 140 160 180 200 215 <br>
 > 85 105 125 145 165 185 205 220 <br>
 
-### For **HW4_Q6(b)(iii).cpp**, it's input is:
+### For **HW4_Q6(b)(iii).cpp**, the input is:
 >   0  -1  -2  -3 <br>
 > -1  -2  -3  -4 <br>
 > -2  -3  -3  -4 <br>
